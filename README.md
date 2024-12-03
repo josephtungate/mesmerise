@@ -1,7 +1,7 @@
 # Mesmerize
 A simon says style memory game for Arduino systems equipped with an Adafruit RGB LCD Shield.
 
-This project was developed as coursework for an embedded systems programming course at Loughborough University. It was awarded 99% which made it the highest scoring submission that year. The coursework specification has not been included to avoid copyright infringement, but my submission's readme file, which gives details of the task and program, has been included below. 
+This project was developed as coursework for an embedded systems programming course at Loughborough University. It was awarded 99% which made it the highest scoring submission that year (May 2020). The coursework specification has not been included to avoid copyright infringement, but my submission's readme file, which gives details of the task and program, has been included below. 
 
 # Running the Program
 This program was originally developed for an Arduino Uno (from around 2019) equipped with an Adafruit RGB LCD Shield. Although untested, the program should be compatible with other Arduino systems so long as they can connect to the Adafruit shield (although the game's timing may differ).
